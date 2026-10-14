@@ -1,0 +1,12 @@
+.settings-nav-item.nav-active {
+  background-color: #B6CAEC;
+  color: #234481;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+.settings-nav-item:disabled {
+  background-color: #D8DADE;
+  border-color: #BCBFC7;
+  color: #858B99;
+}

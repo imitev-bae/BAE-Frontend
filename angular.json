@@ -80,7 +80,8 @@
               "buildTarget": "bae-frontend:build:production"
             },
             "development": {
-              "buildTarget": "bae-frontend:build:development"
+              "buildTarget": "bae-frontend:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

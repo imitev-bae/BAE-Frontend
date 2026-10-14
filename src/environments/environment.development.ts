@@ -1,5 +1,5 @@
 export const environment = {
-  //BASE_URL: 'https://dome-marketplace.org',
+  // BASE_URL: 'https://dome-marketplace.org',
   BASE_URL: 'http://proxy.docker:8004',
   isProduction: false,
   PAYMENT_URL: '/revenue',
@@ -108,6 +108,7 @@ export const environment = {
   AI_SEARCH_ANSWER_MAX_ITEMS: 5,
   AI_SEARCH_PROFILE: 'dome_prod',
   LEAR_URL: '',
+  SOVEREIGNTY_FRAMEWORK_URL: 'https://commission.europa.eu/document/09579818-64a6-4dd5-9577-446ab6219113_en',
   LAUNCH_VALIDATION_ENABLED: false,
   TENDER_DEV_BUTTONS_OPEN_CLOSE_ENABLED: true,
   DSP_ENABLED: true,
